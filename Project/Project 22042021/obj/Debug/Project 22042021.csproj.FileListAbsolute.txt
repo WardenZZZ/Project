@@ -1,0 +1,57 @@
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\Project 22042021.exe.config
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\Project 22042021.exe
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\Project 22042021.pdb
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project 22042021.csprojAssemblyReference.cache
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project_22042021.Add.resources
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project_22042021.Edit.resources
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project_22042021.Export.resources
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project_22042021.Login.resources
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project_22042021.MainF.resources
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project_22042021.Properties.Resources.resources
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project 22042021.csproj.GenerateResource.cache
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project 22042021.csproj.CoreCompileInputs.cache
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project 22042021.exe
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project 22042021.pdb
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\MySql.Data.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\Google.Protobuf.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\Zstandard.Net.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\BouncyCastle.Crypto.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\Ubiety.Dns.Core.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\Renci.SshNet.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\System.Memory.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\System.Buffers.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\K4os.Compression.LZ4.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\K4os.Hash.xxHash.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\bin\Debug\MySql.Data.xml
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project 22042021.exe.config
+D:\808-P\Kovbel\Project22042021\Project 22042021\Project 22042021\obj\Debug\Project 22042021.csproj.CopyComplete
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\Project 22042021.exe.config
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\Project 22042021.exe
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\Project 22042021.pdb
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\Google.Protobuf.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\Zstandard.Net.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\Renci.SshNet.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\System.Memory.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\System.Buffers.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\bin\Debug\MySql.Data.xml
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project 22042021.csprojAssemblyReference.cache
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project 22042021.exe.config
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project_22042021.Add.resources
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project_22042021.Edit.resources
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project_22042021.Export.resources
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project_22042021.Login.resources
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project_22042021.MainF.resources
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project_22042021.Properties.Resources.resources
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project 22042021.csproj.GenerateResource.cache
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project 22042021.csproj.CoreCompileInputs.cache
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project 22042021.csproj.CopyComplete
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project 22042021.exe
+C:\Users\snite\Desktop\CYUM\StudProject\Project 22042021\obj\Debug\Project 22042021.pdb
